@@ -3,3 +3,37 @@
     padding: 0;
     margin: 0;
 }
+header{
+    background-color:rgb(173, 216, 230);
+}
+.orange{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color:rgb(218, 165, 32);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 21px;
+    
+    
+section{
+    border-style: dashed;
+
+}
+.blue{
+    background-color:rgb(0, 0, 139);
+
+}
+.purple{
+    background-color: rgb(238, 130, 238);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 600px;
+}
