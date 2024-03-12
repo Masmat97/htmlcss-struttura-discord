@@ -18,18 +18,18 @@ header{
     margin-left: auto;
     margin-right: auto;
     height: 22px;
-    border-style: dashed;
     margin-bottom: 0.5rem;
 }
 .border{
     border-style: dashed;
+    width: 33.3%;
+    text-align:center;
 }
 .blue{
     background-color:rgb(0, 0, 139);
     padding-top:1rem;
     padding-bottom: 1rem;
 }
-    
 .purple{
     background-color: rgb(238, 130, 238);
     display: flex;
@@ -42,8 +42,6 @@ header{
     min-height: 400px;
     border-style: dashed;
 }
-
-
 .white{
     width: 1000px;
     margin-left: auto;
@@ -99,8 +97,6 @@ footer{
     display: flex;
     padding-top: 1rem;
     padding-bottom: 2rem;
-    
-
 }
 .rosa-scuro{
     width: 30%;
